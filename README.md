@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is  David Afolabi & I'm a <br>Solutions Architect/Engineer & Technical Program Manager</h2>
+<h2 align="left">Hi 👋! My name is  David Afolabi & I'm a <br>Solutions Architect/Engineer & Technical Program Manager</h2>
 
 ###
 
