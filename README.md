@@ -6,6 +6,9 @@
 ###
 
 <div align="left">
+  <img src= "https://www.zohowebstatic.com/sites/zweb/images/ogimage/one-logo.png" height="30" alt="Zoho Deluge logo"  />
+  <img width="12" />
+  
   <img src= "https://www.zohowebstatic.com/sites/zweb/images/producticon/deluge.svg" height="30" alt="Zoho Deluge logo"  />
   <img width="12" />
   <img src= "https://www.zohowebstatic.com/sites/zweb/images/producticon/flow.svg" height="30" alt="Zoho Deluge logo"  />
